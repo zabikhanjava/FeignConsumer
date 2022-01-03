@@ -12,5 +12,8 @@ import org.springframework.context.annotation.Configuration;
 
 
 public class BiulderConfig1 {
+public void ma()
+{
 
+}
 }
